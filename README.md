@@ -1,7 +1,7 @@
 # Hi there, I'm Andrei! 👋
 
 I'm a freelance software developer with expertise in **TypeScript**, **React**, **Angular**, and **RxJS**.  
-I'm also not afraid to dive into **Java** backends, having worked with Java for approximately 10 years.
+I'm also not afraid to dive into **Java** backends, having worked with Java for more than 10 years.
 
 ## About Me
 
